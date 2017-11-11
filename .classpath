@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="H:/ImageJ/ij.jar"/>
+	<classpathentry kind="lib" path="H:/java/mongo-java-driver-3.4.2.jar"/>
+	<classpathentry kind="lib" path="H:/java/morphia-1.3.0.jar" sourcepath="C:/Users/waqar/.m2/repository/org/mongodb/morphia/morphia/1.3.0/morphia-1.3.0-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
